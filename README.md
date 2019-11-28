@@ -19,3 +19,7 @@
 
 # 运行界面
 ![](https://img-blog.csdnimg.cn/20191121170042570.png)
+
+
+# 静态打包「拷贝到别人的电脑也可以运行」
+https://www.k2zone.cn/?p=2309
